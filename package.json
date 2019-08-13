@@ -29,5 +29,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "moment": "^2.24.0",
+    "react-big-calendar": "^0.22.0",
+    "superagent": "^5.1.0"
   }
 }
